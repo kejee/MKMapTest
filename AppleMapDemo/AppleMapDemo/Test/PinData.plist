@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>coordinate</key>
+		<dict>
+			<key>latitude</key>
+			<real>39.896438</real>
+			<key>longitude</key>
+			<real>116.328649</real>
+		</dict>
+		<key>title</key>
+		<string>北京市</string>
+		<key>subtitle</key>
+		<string>中铁设计大厦</string>
+	</dict>
+	<dict>
+		<key>coordinate</key>
+		<dict>
+			<key>latitude</key>
+			<real>30.611358</real>
+			<key>longitude</key>
+			<real>114.429114</real>
+		</dict>
+		<key>title</key>
+		<string>武汉市</string>
+		<key>subtitle</key>
+		<string>武汉站</string>
+		
+	</dict>
+	<dict>
+		<key>coordinate</key>
+		<dict>
+			<key>latitude</key>
+			<real>30.479337</real>
+			<key>longitude</key>
+			<real>114.467795</real>
+		</dict>
+		<key>title</key>
+		<string>武汉市</string>
+		<key>subtitle</key>
+		<string>国际网球中心</string>
+		
+	</dict>
+</array>
+</plist>
